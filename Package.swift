@@ -50,7 +50,7 @@ let package = Package(
                     condition: .when(platforms: [.iOS])
                 ),
                 .product(
-                    name: "Mixpanel", package: "Mixpanel",
+                    name: "Mixpanel", package: "mixpanel-swift",
                     condition: .when(platforms: [.iOS])
                 )
             ],
