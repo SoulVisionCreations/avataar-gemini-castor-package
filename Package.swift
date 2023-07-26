@@ -47,8 +47,11 @@ let package = Package(
                 .product(
                     name: "Kingfisher", package: "Kingfisher",
                     condition: .when(platforms: [.iOS])
+                ),
+                .product(
+                    name: "Mixpanel", package: "Mixpanel",
+                    condition: .when(platforms: [.iOS])
                 )
-                
             ],
             path: "GeminiFrameworkWrapper"
         ),
