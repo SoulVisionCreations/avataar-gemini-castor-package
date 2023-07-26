@@ -18,7 +18,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
          .package(url: "https://github.com/maxxfrazer/FocusEntity.git", from: "2.3.0"),
-         .package(url: "https://github.com/onevcat/Kingfisher", from : "7.6.2")
+         .package(url: "https://github.com/onevcat/Kingfisher", from : "7.6.2"),
          .package(url: "https://github.com/mixpanel/mixpanel-swift.git", from: "4.1.4")
     ],
     targets: [
