@@ -1421,23 +1421,37 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/BuildConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 661,
+      "offset": 583,
+      "length": 93,
+      "value": "\"https:\/\/0kgdl4zdld.execute-api.us-east-1.amazonaws.com\/prod\/plutus\/auth\/gemini\/castor\/1_0_0\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/BuildConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 794,
       "length": 34,
       "value": "\"f8ef2081509853c8bf86727cdd5de3b2\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/BuildConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 733,
+      "offset": 866,
       "length": 34,
       "value": "\"b489bdc11768c42ca53319cd9a899186\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/BuildConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 952,
-      "length": 4,
-      "value": "\"QA\""
+      "offset": 940,
+      "length": 34,
+      "value": "\"1bc8bc2287770454294d6825cb36ea90\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/BuildConfiguration.swift",
+      "kind": "StringLiteral",
+      "offset": 1159,
+      "length": 6,
+      "value": "\"Prod\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
@@ -3185,6 +3199,13 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/AppEnvironment.swift",
       "kind": "StringLiteral",
+      "offset": 193,
+      "length": 6,
+      "value": "\"Prod\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/AppEnvironment.swift",
+      "kind": "StringLiteral",
       "offset": 150,
       "length": 7,
       "value": "\"Debug\""
@@ -3195,6 +3216,13 @@
       "offset": 172,
       "length": 4,
       "value": "\"QA\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Config\/AppEnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 193,
+      "length": 6,
+      "value": "\"Prod\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Components\/Icons\/TextDescriptor.swift",
