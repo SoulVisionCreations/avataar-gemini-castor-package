@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w2ybRvasauhQOa1dF+qkJqXPyAI=
+		J1T+EAWNrw6dj/Z+9bXOn8Lq4ZY=
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vENUzVW8WfuNkASeueDyoOSnDHQ=
+		Og9RmCqR6q3w0ANZLR2paFGVUPo=
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+0niMCrasfyTC19StugS5qXb7rU=
+		CTw6WUhVkvn6UxXOd24tX8l4FPs=
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vENUzVW8WfuNkASeueDyoOSnDHQ=
+		Og9RmCqR6q3w0ANZLR2paFGVUPo=
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/GeminiCastorFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XhAXcpWvIE8veMtnN15hDWimNSs=
+		MbhJrjWb/mV1gNOHNMo05oG3Uyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>avataar.realityenv</key>
 		<data>
-		/DP3oBmqQBsl2DZ8hZ6YJwHhxek=
+		EM0ZNN90Ozl+q729yMhyAwG0fI4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fb3Qh8mAM9m7I1dM3YvO+9sF5PNGE8XPk2/o/WrorZU=
+			s0PcgAzfmqCFQnxP1e5GVlkjI7CunDV1UNQBHiGc5o0=
 			</data>
 		</dict>
 		<key>Modules/GeminiCastorFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -128,14 +128,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/MzcjTud32s+mIBiLkPva3YKc+otV+4rpjiFy1/PZqI=
+			zPGULshkRHhyN8mFGmiDoT5ww/XspRiqlui1PlUyrKI=
 			</data>
 		</dict>
 		<key>Modules/GeminiCastorFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fb3Qh8mAM9m7I1dM3YvO+9sF5PNGE8XPk2/o/WrorZU=
+			s0PcgAzfmqCFQnxP1e5GVlkjI7CunDV1UNQBHiGc5o0=
 			</data>
 		</dict>
 		<key>Modules/GeminiCastorFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CB2nhnkEamoo71bz4px15qtUx/M2tPk2WJDSXk7G9Is=
+			IzQWLU7EfW/hReCVS8WXmLR7jwi2V2NWDf72IZgRQOY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nw640kw4Hf7n9hJQcn9+jAGOXYUtWt8sj8KSoIVr7uk=
+			/y3LmBXRaq9ZyHeNogvBaIvnLBVRf91fy5eyvjp8PlU=
 			</data>
 		</dict>
 	</dict>

@@ -1484,98 +1484,98 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 474,
+      "offset": 428,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 577,
+      "offset": 531,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 946,
+      "offset": 905,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "StringLiteral",
-      "offset": 1345,
+      "offset": 1307,
       "length": 21,
       "value": "\"File already exists\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1411,
+      "offset": 1373,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1459,
+      "offset": 1421,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "StringLiteral",
-      "offset": 1826,
+      "offset": 1791,
       "length": 17,
       "value": "\"Request error: \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1903,
+      "offset": 1868,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2095,
+      "offset": 2086,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2196,
+      "offset": 2187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2481,
+      "offset": 2475,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2541,
+      "offset": 2535,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "StringLiteral",
-      "offset": 2654,
+      "offset": 2651,
       "length": 21,
       "value": "\"Error saving file: \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2739,
+      "offset": 2736,
       "length": 5,
       "value": "false"
     },
@@ -1645,7 +1645,7 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/DownloadManager.swift",
       "kind": "StringLiteral",
-      "offset": 6188,
+      "offset": 6426,
       "length": 30,
       "value": "\"Error loading texture file: \""
     },
@@ -1925,126 +1925,126 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2202,
+      "offset": 2236,
       "length": 9,
       "value": "\"BaseMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2334,
+      "offset": 2368,
       "length": 14,
       "value": "\"RoughnessMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2472,
+      "offset": 2506,
       "length": 11,
       "value": "\"NormalMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2600,
+      "offset": 2634,
       "length": 13,
       "value": "\"MetallicMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2734,
+      "offset": 2768,
       "length": 7,
       "value": "\"AOMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 2878,
+      "offset": 2912,
       "length": 13,
       "value": "\"EmissiveMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 3023,
+      "offset": 3057,
       "length": 15,
       "value": "\"SheenColorMap\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 3144,
+      "offset": 3178,
       "length": 13,
       "value": "\"Map Applied\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "StringLiteral",
-      "offset": 3192,
+      "offset": 3226,
       "length": 25,
       "value": "\"Map type not supported \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "FloatLiteral",
-      "offset": 3281,
+      "offset": 3315,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "Array",
-      "offset": 3380,
+      "offset": 3414,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "Dictionary",
-      "offset": 3595,
+      "offset": 3629,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "Dictionary",
-      "offset": 3941,
+      "offset": 3975,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "Array",
-      "offset": 4529,
+      "offset": 4563,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 4881,
+      "offset": 4915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "IntegerLiteral",
-      "offset": 5011,
+      "offset": 5045,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "BooleanLiteral",
-      "offset": 5075,
+      "offset": 5109,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Utilities.swift",
       "kind": "Array",
-      "offset": 5289,
+      "offset": 5323,
       "length": 2,
       "value": "[]"
     },
@@ -2232,612 +2232,682 @@
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1468,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1470,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1472,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1526,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1528,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1530,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Array",
-      "offset": 1460,
+      "offset": 1576,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1710,
+      "offset": 1826,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1712,
+      "offset": 1828,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1714,
+      "offset": 1830,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1900,
+      "offset": 2016,
       "length": 18,
       "value": "\"XRViewModel Init\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2323,
+      "offset": 2439,
       "length": 15,
       "value": "\"dimensionIcon\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2441,
+      "offset": 2557,
       "length": 15,
       "value": "\"openCloseIcon\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2675,
       "length": 17,
       "value": "\"colorChangeIcon\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Dictionary",
-      "offset": 2788,
+      "offset": 2904,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2866,
+      "offset": 2982,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3194,
+      "offset": 3310,
       "length": 27,
       "value": "\"Entered OnLoad Operations\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4228,
+      "offset": 4523,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4327,
+      "offset": 4622,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4519,
+      "offset": 4814,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5001,
+      "offset": 5301,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5118,
+      "offset": 5418,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6110,
+      "offset": 6410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6258,
+      "offset": 6558,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7044,
+      "offset": 7344,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7800,
+      "offset": 8100,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9825,
+      "offset": 10125,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 10403,
+      "offset": 10703,
       "length": 26,
       "value": "\"Could not download model\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Array",
-      "offset": 10537,
+      "offset": 10837,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Dictionary",
-      "offset": 10602,
+      "offset": 10902,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11452,
+      "offset": 11752,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11477,
+      "offset": 11777,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11502,
+      "offset": 11802,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 11635,
+      "offset": 11935,
       "length": 5,
       "value": "0.015"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12541,
+      "offset": 12841,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12593,
+      "offset": 12893,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13404,
+      "offset": 13704,
       "length": 8,
       "value": "\"CASTOR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13720,
+      "offset": 14020,
       "length": 11,
       "value": "\"dimension\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 13917,
+      "offset": 14217,
       "length": 11,
       "value": "\"materials\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 14085,
+      "offset": 14385,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 14351,
+      "offset": 14651,
       "length": 18,
       "value": "\"dynamicAnimation\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 14576,
+      "offset": 14876,
       "length": 15,
       "value": "\"clipAnimation\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15028,
+      "offset": 15328,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15169,
+      "offset": 15469,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15456,
+      "offset": 15927,
       "length": 13,
       "value": "\"ModelAnchor\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 15821,
+      "offset": 16283,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 16110,
+      "offset": 16709,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Array",
-      "offset": 16210,
+      "offset": 16809,
       "length": 9,
       "value": "[0, 1, 0]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 16317,
+      "offset": 16916,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 16343,
+      "offset": 16942,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17244,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17328,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17399,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 18032,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16702,
+      "offset": 18361,
       "length": 19,
       "value": "\"Model file exists\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16972,
+      "offset": 18631,
       "length": 31,
       "value": "\"Model could not be downloaded\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17180,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17198,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17201,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17340,
+      "offset": 19001,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17380,
+      "offset": 19041,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17519,
+      "offset": 19180,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17650,
+      "offset": 19311,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 17669,
+      "offset": 19330,
       "length": 16,
       "value": "\"centerandscale\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17743,
+      "offset": 19404,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17767,
+      "offset": 19428,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17791,
+      "offset": 19452,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17797,
+      "offset": 19458,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 17822,
+      "offset": 19483,
       "length": 3,
       "value": "0.7"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17861,
+      "offset": 19522,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17948,
+      "offset": 19609,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 17961,
+      "offset": 19622,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 20055,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18624,
+      "offset": 20410,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18630,
+      "offset": 20416,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18636,
+      "offset": 20422,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18762,
+      "offset": 20548,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18764,
+      "offset": 20550,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 18766,
+      "offset": 20552,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 18892,
+      "offset": 20678,
       "length": 15,
       "value": "\"ResetModel XR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19064,
+      "offset": 20850,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 19181,
+      "offset": 20967,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19218,
+      "offset": 21004,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19392,
+      "offset": 21178,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 19457,
+      "offset": 21243,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 19585,
+      "offset": 21371,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "Array",
-      "offset": 19596,
+      "offset": 21382,
       "length": 9,
       "value": "[0, 1, 0]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 20082,
+      "offset": 21868,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 20145,
+      "offset": 21931,
       "length": 7,
       "value": "1.39626"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 20214,
+      "offset": 22000,
       "length": 8,
       "value": "-1.39626"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 20398,
+      "offset": 22184,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 20812,
+      "offset": 22598,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 20921,
+      "offset": 22707,
       "length": 25,
       "value": "\"Adding anchor to camera\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21228,
+      "offset": 23014,
       "length": 21,
       "value": "\"Session Paused - XR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21336,
+      "offset": 23122,
       "length": 22,
       "value": "\"Session Resumed - XR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21588,
+      "offset": 23374,
       "length": 9,
       "value": "\"avataar\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 21726,
+      "offset": 23557,
       "length": 34,
       "value": "\"ai.avataar.GeminiCastorFramework\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 21883,
+      "offset": 23720,
       "length": 4,
       "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 24169,
+      "length": 30,
+      "value": "\"Error loading HDRI: \""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/XRViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 24198,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/ARView\/InteractiveButtonsBarViewAR.swift",
@@ -2989,21 +3059,28 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/ARView\/InteractiveButtonsBarViewAR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4735,
+      "offset": 4477,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/ARView\/InteractiveButtonsBarViewAR.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4762,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/ARView\/InteractiveButtonsBarViewAR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4874,
+      "offset": 4901,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/ARView\/InteractiveButtonsBarViewAR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4956,
+      "offset": 4983,
       "length": 2,
       "value": "52"
     },
@@ -3157,35 +3234,35 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/ConfigLoader.swift",
       "kind": "Array",
-      "offset": 1978,
+      "offset": 1982,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/ConfigLoader.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
+      "offset": 2059,
       "length": 9,
       "value": "\"TEXTURE\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/ConfigLoader.swift",
       "kind": "StringLiteral",
-      "offset": 2259,
+      "offset": 2263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/ConfigLoader.swift",
       "kind": "StringLiteral",
-      "offset": 2366,
+      "offset": 2370,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/ConfigLoader.swift",
       "kind": "StringLiteral",
-      "offset": 2473,
+      "offset": 2477,
       "length": 2,
       "value": "\"\""
     },
@@ -3388,14 +3465,14 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/EntryPoint\/CastorView.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1656,
       "length": 41,
       "value": "\"Status Code: \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/EntryPoint\/CastorView.swift",
       "kind": "StringLiteral",
-      "offset": 1588,
+      "offset": 1696,
       "length": 2,
       "value": "\"\""
     },
@@ -3549,21 +3626,28 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/XRView\/InteractiveButtonsBarViewXR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4697,
+      "offset": 4419,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/XRView\/InteractiveButtonsBarViewXR.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4724,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/XRView\/InteractiveButtonsBarViewXR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4839,
+      "offset": 4866,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/XRView\/InteractiveButtonsBarViewXR.swift",
       "kind": "IntegerLiteral",
-      "offset": 4895,
+      "offset": 4922,
       "length": 2,
       "value": "52"
     },
@@ -3822,457 +3906,723 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1434,
+      "offset": 1443,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1445,
+      "offset": 1454,
+      "length": 20,
+      "value": "\"CONFIG_LOAD_FAILED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1491,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1506,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1525,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1540,
+      "length": 6,
+      "value": "\"AUTO\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1692,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 1703,
       "length": 14,
       "value": "\"MODEL_LOADED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1476,
+      "offset": 1734,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1491,
+      "offset": 1749,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1510,
+      "offset": 1768,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1525,
+      "offset": 1783,
       "length": 6,
       "value": "\"AUTO\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1681,
+      "offset": 1939,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1692,
+      "offset": 1950,
       "length": 14,
       "value": "\"MODEL_PLACED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1723,
+      "offset": 1981,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1738,
+      "offset": 1996,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1757,
+      "offset": 2015,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1772,
+      "offset": 2030,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1956,
+      "offset": 2214,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 1967,
+      "offset": 2225,
       "length": 25,
       "value": "\"TOKEN_VALIDATION_FAILED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2009,
+      "offset": 2267,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2025,
+      "offset": 2283,
       "length": 12,
       "value": "\"statusCode\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2067,
+      "offset": 2325,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2082,
+      "offset": 2340,
       "length": 6,
       "value": "\"AUTO\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2254,
+      "offset": 2512,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2277,
+      "offset": 2535,
       "length": 19,
       "value": "\"DIMENSION_ENABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2299,
+      "offset": 2557,
       "length": 20,
       "value": "\"DIMENSION_DISABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2336,
+      "offset": 2594,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2351,
+      "offset": 2609,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2370,
+      "offset": 2628,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2385,
+      "offset": 2643,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2573,
+      "offset": 2831,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2603,
+      "offset": 2861,
       "length": 21,
       "value": "\"INTERACTION_ENABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2627,
+      "offset": 2885,
       "length": 22,
       "value": "\"INTERACTION_DISABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2666,
+      "offset": 2924,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2681,
+      "offset": 2939,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2700,
+      "offset": 2958,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2715,
+      "offset": 2973,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2890,
+      "offset": 3148,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2914,
+      "offset": 3172,
       "length": 15,
       "value": "\"COLOR_ENABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2932,
+      "offset": 3190,
       "length": 16,
       "value": "\"COLOR_DISABLED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2965,
+      "offset": 3223,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2980,
+      "offset": 3238,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 2999,
+      "offset": 3257,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3014,
+      "offset": 3272,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3187,
+      "offset": 3445,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3198,
+      "offset": 3456,
       "length": 15,
       "value": "\"COLOR_CHANGED\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3230,
+      "offset": 3488,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3246,
+      "offset": 3504,
       "length": 7,
       "value": "\"color\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3278,
+      "offset": 3536,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3293,
+      "offset": 3551,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3456,
+      "offset": 3714,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3467,
+      "offset": 3725,
       "length": 6,
       "value": "\"INFO\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3490,
+      "offset": 3748,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3505,
+      "offset": 3763,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3524,
+      "offset": 3782,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3539,
+      "offset": 3797,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3695,
+      "offset": 3953,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3706,
+      "offset": 3964,
       "length": 12,
       "value": "\"VIEW_IN_AR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3735,
+      "offset": 3993,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3750,
+      "offset": 4008,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3769,
+      "offset": 4027,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3784,
+      "offset": 4042,
       "length": 13,
       "value": "\"USER_ACTION\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3940,
+      "offset": 4198,
       "length": 6,
       "value": "\"mode\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3950,
+      "offset": 4208,
       "length": 4,
       "value": "\"QR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3971,
+      "offset": 4229,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 3982,
+      "offset": 4240,
       "length": 12,
       "value": "\"VIEW_IN_3D\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 4011,
+      "offset": 4269,
       "length": 11,
       "value": "\"eventData\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 4026,
+      "offset": 4284,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 4045,
+      "offset": 4303,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 4060,
+      "offset": 4318,
       "length": 13,
       "value": "\"USER_ACTION\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4478,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4489,
+      "length": 11,
+      "value": "\"EXP_ENDED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4517,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4532,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4551,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4566,
+      "length": 6,
+      "value": "\"AUTO\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4717,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4728,
+      "length": 13,
+      "value": "\"EXP_STARTED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4758,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4773,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4792,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4807,
+      "length": 6,
+      "value": "\"AUTO\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5018,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5029,
+      "length": 21,
+      "value": "\"TEXTURE_LOAD_FAILED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5067,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5096,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5124,
+      "length": 11,
+      "value": "\"textureId\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5160,
+      "length": 9,
+      "value": "\"mapType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5205,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5220,
+      "length": 6,
+      "value": "\"AUTO\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5392,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5403,
+      "length": 18,
+      "value": "\"HDRI_LOAD_FAILED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5438,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5467,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5508,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5523,
+      "length": 6,
+      "value": "\"AUTO\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5696,
+      "length": 7,
+      "value": "\"event\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5707,
+      "length": 19,
+      "value": "\"MODEL_LOAD_FAILED\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5743,
+      "length": 11,
+      "value": "\"eventData\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5772,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5813,
+      "length": 11,
+      "value": "\"eventType\""
+    },
+    {
+      "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/Utils\/Analytics.swift",
+      "kind": "StringLiteral",
+      "offset": 5828,
+      "length": 6,
+      "value": "\"AUTO\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/UI\/Screens\/XRView\/XRViewContainer.swift",
@@ -4417,308 +4767,308 @@
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 3345,
+      "offset": 3524,
       "length": 19,
       "value": "\"Model file exists\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4211,
+      "offset": 4390,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 4446,
+      "offset": 4625,
       "length": 51,
       "value": "\"People occlusion is not supported on this device.\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4571,
+      "offset": 4750,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 4763,
+      "offset": 4942,
       "length": 36,
       "value": "\"Scene reconstruction not supported\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4950,
+      "offset": 5129,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 5049,
+      "offset": 5228,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5762,
+      "offset": 5941,
       "length": 47,
       "value": "\"Tap -- dimensionEnabled:  \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5808,
+      "offset": 5987,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6428,
+      "offset": 6607,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6576,
+      "offset": 6755,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7441,
+      "offset": 7620,
       "length": 26,
       "value": "\"Could not download model\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7849,
+      "offset": 8028,
       "length": 8,
       "value": "\"CASTOR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8174,
+      "offset": 8353,
       "length": 11,
       "value": "\"dimension\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8384,
+      "offset": 8563,
       "length": 11,
       "value": "\"materials\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 8552,
+      "offset": 8731,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8831,
+      "offset": 9010,
       "length": 18,
       "value": "\"dynamicAnimation\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 9069,
+      "offset": 9248,
       "length": 15,
       "value": "\"clipAnimation\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9459,
+      "offset": 9638,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 10094,
+      "offset": 10273,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10278,
+      "offset": 10457,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10618,
+      "offset": 10797,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 11100,
+      "offset": 11284,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 11217,
+      "offset": 11401,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11387,
+      "offset": 11571,
       "length": 14,
       "value": "\"updatedcolor\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 11762,
+      "offset": 11946,
       "length": 16,
       "value": "\"Materials Map \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12014,
+      "offset": 12198,
       "length": 20,
       "value": "\"Animation in model\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 12197,
+      "offset": 12381,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 12540,
+      "offset": 12724,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12595,
+      "offset": 12779,
       "length": 27,
       "value": "\"Tap -- isOpen:  \""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 12621,
+      "offset": 12805,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "Array",
-      "offset": 13741,
+      "offset": 13925,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "Dictionary",
-      "offset": 13806,
+      "offset": 13990,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 14570,
+      "offset": 14754,
       "length": 19,
       "value": "\"Model file exists\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 14635,
+      "offset": 14819,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15037,
+      "offset": 15221,
       "length": 13,
       "value": "\"ModelAnchor\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15768,
+      "offset": 15952,
       "length": 26,
       "value": "\"Model file doesn't exist\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15873,
+      "offset": 16057,
       "length": 17,
       "value": "\"numberofanchors\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 15952,
+      "offset": 16136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16044,
+      "offset": 16228,
       "length": 13,
       "value": "\"ModelAnchor\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16096,
+      "offset": 16280,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 16205,
+      "offset": 16389,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16863,
+      "offset": 17047,
       "length": 21,
       "value": "\"Session Paused - AR\""
     },
     {
       "filePath": "\/Users\/avataar\/Downloads\/Avataar\/gemini-ios\/GeminiCastorFramework\/ViewModel\/ARViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 16970,
+      "offset": 17154,
       "length": 22,
       "value": "\"Session Resumed - AR\""
     },
